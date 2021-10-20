@@ -1,0 +1,9 @@
+{
+    "AWS_REGION": "eu-west-3",
+    "AWS_ACCESS_KEY": "",
+    "AWS_SECRET_KEY": "",
+    "S3_INPUT_BUCKET_NAME": "",
+    "S3_OUTPUT_BUCKET_NAME": "",
+    "CLOUDFRONT_DIST_ID": ""
+}
+
